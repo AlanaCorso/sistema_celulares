@@ -1,20 +1,24 @@
-::: {align="center"}
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=145&text=SISTEMAS%20CELULARES&fontSize=38&fontColor=DC2626&desc=GEST%C3%83O%20DE%20ASSIST%C3%8ANCIA%20T%C3%89CNICA&descSize=16&descAlignY=78" alt="Sistemas Celulares" />`{=html}
+<div align="center">
 
-`<br>`{=html}
+![Header animado](https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:123A5A,100:168AAD&height=190&section=header&text=Sistemas%20Celulares&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=GEST%C3%83O%20INTELIGENTE%20PARA%20ASSIST%C3%8ANCIA%20T%C3%89CNICA&descAlignY=58&descSize=15)
 
-**PROJETO ACADÊMICO · DESENVOLVIMENTO DE SISTEMAS**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=Organize+clientes+e+aparelhos;Gerencie+servi%C3%A7os+e+agendamentos;Deixe+a+assist%C3%AAncia+mais+organizada)](https://git.io/typing-svg)
 
-`<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=21&duration=3500&pause=1100&color=DC2626&center=true&vCenter=true&width=720&height=55&lines=Organizando+atendimentos%2C+do+cadastro+ao+reparo.;Clientes%2C+aparelhos+e+servi%C3%A7os+em+um+s%C3%B3+lugar.;Tecnologia+para+uma+assist%C3%AAncia+mais+organizada." alt="Apresentação do projeto" />`{=html}
+<br>
 
-`<br>`{=html}
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3.0.3-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-Interface-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Interactions-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-[VISÃO GERAL](#-visão-geral) · [FUNCIONALIDADES](#-o-que-o-sistema-faz)
-· [TECNOLOGIAS](#-tecnologias) · [INSTALAÇÃO](#-como-executar) ·
-[ESTRUTURA](#-estrutura-do-projeto)
-:::
+**Projeto acadêmico • Desenvolvimento de Sistemas**
 
-------------------------------------------------------------------------
+
+</div>
+
+---
 
 ## 📘 Visão geral
 
@@ -467,8 +471,6 @@ projeto`</strong>`{=html}
 
 **Projeto acadêmico · Desenvolvimento de Sistemas**
 
-[↑ VOLTAR AO TOPO](#sistemas-celulares)
-:::
 
 <sub>Python • Flask • MySQL • HTML • CSS • JavaScript</sub>
 
